@@ -111,10 +111,11 @@ Links for general DB and uther useful resources:
 
 ## General Motors (Buick, Cadillac, Chevrolet, GMC)
 
-* [GM](http://opengarages.org/index.php/GM_LAN_29_Bit_ID) - Opengarages GM LAN 29 Bit ID.
+* [GM](https://web.archive.org/web/20220124141625/http://opengarages.org/index.php/GM_LAN_29_Bit_ID) - Opengarages GM LAN 29 Bit ID.
 * [GM](https://docs.google.com/spreadsheets/d/1qEwOXSr3bWoc2VUhpuIam236OOZxPc2hxpLUsV0xkn0/edit) - GM LAN bible.
-* [GM](https://github.com/karlyamashita/common_libraries/blob/master/GMLAN_CAN_ID.h) - GMLAN CAN ID.
-* [GM](https://github.com/karlyamashita/common_libraries/blob/master/GMLAN_CAN_ID_V2.h) - GMLAN CAN ID v2.
+* [GM](https://github.com/karlyamashita/common_libraries/blob/master/Vehicle%20Drivers/GMLAN_CAN_ID.h) - GMLAN CAN ID.
+* [GM](https://github.com/karlyamashita/common_libraries/blob/master/Vehicle%20Drivers/GMLAN_CAN_ID_V2.h) - GMLAN CAN ID v2.
+
 
 ## Daimler-Chrysler (Chrysler, Dodge, Jeep, RAM)
 
